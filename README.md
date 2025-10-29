@@ -20,7 +20,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![alt text](image.png)
+<img width="401" height="225" alt="image" src="https://github.com/user-attachments/assets/2add56ea-f8ac-48e2-9bab-b6d07041c1d7" />
+
 
 
 
@@ -69,9 +70,7 @@ int main() {
 }
 ```
 # OUTPUT:
-![alt text](image-1.png)
-![alt text](image-2.png)
-
+<img width="443" height="229" alt="image" src="https://github.com/user-attachments/assets/17f0d77b-e6ea-468a-926d-9d73e44f32f5" />
 
 
 
@@ -122,7 +121,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![alt text](image-3.png)
+<img width="407" height="309" alt="image" src="https://github.com/user-attachments/assets/51ea2eb5-ccac-4d1f-bd5f-76ac0d262d9f" />
 
 
 
@@ -166,7 +165,8 @@ int main() {
 ```
 ## OUTPUT:
 
-![alt text](image-4.png)
+<img width="449" height="267" alt="image" src="https://github.com/user-attachments/assets/5e3b9b0e-eadb-499b-b2cc-1df8be6ca0c2" />
+
 
 
 
@@ -225,7 +225,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![alt text](image-5.png)
+<img width="461" height="239" alt="image" src="https://github.com/user-attachments/assets/d22a3363-58ad-499d-8de7-cabb2dd01237" />
+
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
 
